@@ -1,2 +1,2 @@
 # SSA
-Supser Simple Auth
+Super Simple Auth
